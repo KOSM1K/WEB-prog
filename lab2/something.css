@@ -1,0 +1,58 @@
+.main {
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+h1 {
+    font-family: Tahoma;
+    color: #0099ff;
+    text-align: center;
+    text-shadow: -3px 0px 0px black
+}
+
+#id1{
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    
+}
+
+#id2{
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+#id3{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+h2{
+    font-size:larger;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+table{
+    width:100%;
+}
+
+#table_1{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid black;
+}
+
+.dich_polnaya{
+    color: #0000ff; 
+    font-style: italic;
+}
+
