@@ -1,0 +1,40 @@
+table {
+	border-collapse: collapse;
+}
+
+.border_inside {
+	border: 3px solid blue;
+}
+
+.head {
+	font-family: Arial;
+	color: blue;
+	text-align: center;
+	text-shadow: 1px -2px 1px blue;
+	font-weight: bold;
+	text-align: center;
+}
+
+.links {
+	color: blue;
+	text-align: center;
+	font-family: Arial;
+	border: 2px solid blue;
+	border-radius: 7px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 3px;
+	padding-bottom: 5px;
+	font-size: 12pt;
+	font-weight: bold;
+	background-color: #c9f7f3;
+}
+.information {
+	font-family: Arial;
+	font-size: 10pt;
+	padding-left: 20px;
+}
+
+.gradient {
+	background: linear-gradient(to right, #C9F7F4, white);
+}
