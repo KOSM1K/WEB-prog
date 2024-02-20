@@ -1,0 +1,56 @@
+.main-container{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.links-holder{
+    width: 100%;
+    align-self: center;
+    align-items: center;
+}
+
+.links {
+    width: auto;
+    color: white;
+	text-align: center;
+	font-family: Arial;
+    border-radius: 7px;
+    
+    padding: 10px;
+    margin: 10px;
+    font-size: 12pt;
+	font-weight: bold;
+	background-color: #4d4d4d;
+}
+
+a{
+    color: white;
+}
+
+a:link {
+    color: white;
+	text-decoration: None;
+}
+a:hover{
+    color: cyan;
+}
+
+
+.back-button{
+    float:left;
+    width: auto;
+    height: auto;
+    color: white;
+	text-align: center;
+	font-family: Arial;
+    padding: 5px;
+    margin: 5px;
+	font-size: 12pt;
+	font-weight: bold;
+	background-color: #4d4d4d;
+}
+
+body{
+    color: white;
+    background-color: #3d3d3d;
+}
